@@ -12,7 +12,7 @@ Win + Mac端
 ![](https://www.hostpic.org/images/2409281827040085.png)
 
 安卓端
-![](https://www.hostpic.org/images/2409281827410088.png)
+![](https://www.hostpic.org/images/2410011806220092.png)
 
 ## 自定义背景（仅限Win / Mac端）
-![自定义背景](https://s2.loli.net/2024/07/14/mjzBQR3v6I7UswO.jpg)
+![自定义背景](https://www.hostpic.org/images/2410011805040080.png)
